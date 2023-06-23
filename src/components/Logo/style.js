@@ -12,5 +12,7 @@ export const AuthLogo = styled.div`
     font-size: 50px;
     color: #B85B2D;
     padding-top: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
   }
 `

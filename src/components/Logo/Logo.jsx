@@ -1,4 +1,4 @@
-import authLogo from "../assets/Logo.png"
+import authLogo from "../../assets/Logo.png"
 import { AuthLogo } from "./style"
 
 export default function Logo() {

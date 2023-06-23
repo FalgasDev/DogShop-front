@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const FormContainer = styled.div`
-  background-color: #FFFAF4;
   width: 100%;
   height: 100vh;
   display: flex;
